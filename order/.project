@@ -3,6 +3,8 @@
 	<name>order</name>
 	<comment></comment>
 	<projects>
+		<project>customer</project>
+		<project>product</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
